@@ -1,0 +1,8 @@
+region = "us-east-1"
+ami = "ami-0688e81a759ef0462"
+instance_type = "t2.micro"
+key_name = "key1"
+Name = "terraform-test"
+Name1 = "terraform-test1"
+Owner = "dev"
+Owner1 = "prod"
